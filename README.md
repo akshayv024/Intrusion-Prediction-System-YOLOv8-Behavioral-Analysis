@@ -69,4 +69,4 @@ DOI: https://doi.org/10.70849/ijsci03032600536
 
 ## Documentation
 
-Detailed project documentation is available in the `documentation/` folder.
+Detailed project documentation is available in the `docs/` folder.
