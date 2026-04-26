@@ -66,3 +66,7 @@ DOI: https://doi.org/10.70849/ijsci03032600536
 - Multi-camera support
 - Cloud logging
 - Mobile notifications
+
+## Documentation
+
+Detailed project documentation is available in the `documentation/` folder.
